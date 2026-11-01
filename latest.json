@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.2.1",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.1.exe",
-    "sha256": "9c9b683e4c440cb905178c802205e66dbe40713136bf1de3c36272479ab0c401",
-    "notes": "텔레그램 승인 요청에 [네이버카페] 표시"
+    "version": "0.2.2",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.2.exe",
+    "sha256": "3857723043af3d22e09a25e7e6c24ed64c11adc0508bf7c168a794b4e1d0137a",
+    "notes": "작업표시줄 아이콘 수정, 앱 목록 표시 수정"
   },
-  "signature": "SuryNQ35I1cxcebLoqOYuTuev/NCvzCrKQFoXbXxrC/FRJSjGxLDk7MogV5yghlXAlIhWooH3DZkUAMKLvTtBQ=="
+  "signature": "rfRLyWpDzZN39skkrnsZedSZMKYLQPhl2L1x/fLtvhsmSVZuQX/+MsOYdesJdv8QzFA4weOx6lLQVo/Acvb5Ag=="
 }
