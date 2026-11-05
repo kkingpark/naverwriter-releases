@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.2.6",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.6.exe",
-    "sha256": "917978b4d378316f5b2e37f1dd9a8fff9ea0e941b315f4d602768ecdb9bb5758",
-    "notes": "다른 매장 사진 목록 가져오기 (같은 시세표 함께 쓰기)"
+    "version": "0.2.7",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.7.exe",
+    "sha256": "1bb8c7d7e41bc143fde8b333966052ce38e1b4f5e480ddd859a23b16e21eb5f5",
+    "notes": "콜라주(한 줄에 여러 장) 안 사진도 교체 가능(묶음1-2), 게시판 글양식 지우기 실패 수정, 말머리에 제목을 넣으면 경고, 글 끝이 주소 줄일 때 사전승낙서 줄바꿈 수정"
   },
-  "signature": "Nj9JFZTGp7sMXFf6wdVpnOeyjQzwBPQ+uUc/qZeGPHOa3aUYMKK/7FsY47Aq30xbw4DildKajNcayQQ/CrTBCQ=="
+  "signature": "/cm2GsJjvHTrHcDoQsx30wwktNahD7YYAXL2HfPSK4Tm4TYmMgqxu6CktBIUg5CFxGcm9+FUk4PMVjYFLd6rAw=="
 }
