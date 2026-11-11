@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.2.8",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.8.exe",
-    "sha256": "c9b808223c18217271540d74b27d38d4ad95d7bd40a0396d44d0835714cfab55",
-    "notes": "특가 이미지 빼기·넣기(사진 보면서 고르기, 특가가 바뀐 날만). 발행이 확인되면 저절로 지우고 사진 번호를 새 글에 맞춤"
+    "version": "0.2.9",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.9.exe",
+    "sha256": "bd325b0a64fa80720aa5d069b9ab136ec728400c06e62070dffa11d49c0d6e6a",
+    "notes": "오늘 이미 올린 카페는 '오늘 올림'으로 표시하고 다시 누르면 이유를 알려줍니다. 묻는 창 버튼을 예/아니요/확인으로 바꿨습니다. 사진 탭 이름을 '올릴 사진'으로 바꾸고 특가 이미지 넣는 법 설명을 정리했습니다."
   },
-  "signature": "NcGSnTvRz6uyK988acwPD60SILVNESAuBjLGZT14V/K3qGwipeFLzR471+lJg7SxAn68AUjxCyv6ZGaBVNa3DA=="
+  "signature": "YgEqVpm8YbGGBhj3QpmEqjjdvFug5y2PNLaxwl8hDpKKOA2hs9ehTzD+Jlb6dS4jgu6NC1l3gXFAxUwduq6eCg=="
 }
