@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.2.9",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.2.9.exe",
-    "sha256": "bd325b0a64fa80720aa5d069b9ab136ec728400c06e62070dffa11d49c0d6e6a",
-    "notes": "오늘 이미 올린 카페는 '오늘 올림'으로 표시하고 다시 누르면 이유를 알려줍니다. 묻는 창 버튼을 예/아니요/확인으로 바꿨습니다. 사진 탭 이름을 '올릴 사진'으로 바꾸고 특가 이미지 넣는 법 설명을 정리했습니다."
+    "version": "0.3.0",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.0.exe",
+    "sha256": "c9d12ae6c0a5d4f21e4f6c20c8733afdaab7d1e3e60daea9e805a86a88d3bf06",
+    "notes": "새 '④ 글 양식' 탭: 카페 글을 복사해 붙여 넣으면 서식 그대로 양식이 되고, 사진 칸에 올릴 사진을 정해 그 양식으로 올립니다(어제 글 필요 없음). 기존 '어제 글 복사' 방식도 그대로 쓸 수 있습니다. 사진을 누를 때 위쪽 메뉴에 가려 실패하던 문제도 고쳤습니다."
   },
-  "signature": "YgEqVpm8YbGGBhj3QpmEqjjdvFug5y2PNLaxwl8hDpKKOA2hs9ehTzD+Jlb6dS4jgu6NC1l3gXFAxUwduq6eCg=="
+  "signature": "ZYeiRctTKllIScIJPe5IZxGV9bmfX3l/VA0yWSr+N90JG9sB6OROivWeynaTSXt0LJhPreQ3PWjLDiv7ZOr8DA=="
 }
