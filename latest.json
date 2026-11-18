@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.1.exe",
-    "sha256": "69288f5db8f83b4d9de5abdaea481f886479ba79e4b83252904bca423583f885",
-    "notes": "카톡 링크카드 자리 추가(카페 글을 붙여 넣으면 카톡 카드도 자리로 바뀜), '④ 글 양식' 탭을 쉽게 바꿈(붙여 넣기 → 사진 고르기 → 저장 한 번, 사진 작은 그림, 실제 사진 미리보기)."
+    "version": "0.3.2",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.2.exe",
+    "sha256": "dc67501f3c77c6c6e3b9e14b30303c098efee749c9258e1c5893828204582093",
+    "notes": "마우스 휠로 드롭다운 값이 바뀌던 문제를 막았습니다(휠은 화면만 내림). 글 양식 탭과 사진 탭에서 jpg 사진 작은 그림·미리보기가 안 보이던 문제를 고쳤습니다."
   },
-  "signature": "IJeoV0uuuCUiAwulZOQmiZa6EnwLJu+YwThZ0KBKRUSjLMzTFuVxmka8lMqbqSgoxO/Jqpgk6haUuZ5+T6UXAA=="
+  "signature": "pAB1Uz6dRWmfo+ghPfRvK9ZaIufYWR/FVlBs9XADBKmB1T7ZxO+zw/x07wo1hzNmC+K3PuTz1di5JEAdnkouCQ=="
 }
