@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.3.0",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.0.exe",
-    "sha256": "c9d12ae6c0a5d4f21e4f6c20c8733afdaab7d1e3e60daea9e805a86a88d3bf06",
-    "notes": "새 '④ 글 양식' 탭: 카페 글을 복사해 붙여 넣으면 서식 그대로 양식이 되고, 사진 칸에 올릴 사진을 정해 그 양식으로 올립니다(어제 글 필요 없음). 기존 '어제 글 복사' 방식도 그대로 쓸 수 있습니다. 사진을 누를 때 위쪽 메뉴에 가려 실패하던 문제도 고쳤습니다."
+    "version": "0.3.1",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.1.exe",
+    "sha256": "69288f5db8f83b4d9de5abdaea481f886479ba79e4b83252904bca423583f885",
+    "notes": "카톡 링크카드 자리 추가(카페 글을 붙여 넣으면 카톡 카드도 자리로 바뀜), '④ 글 양식' 탭을 쉽게 바꿈(붙여 넣기 → 사진 고르기 → 저장 한 번, 사진 작은 그림, 실제 사진 미리보기)."
   },
-  "signature": "ZYeiRctTKllIScIJPe5IZxGV9bmfX3l/VA0yWSr+N90JG9sB6OROivWeynaTSXt0LJhPreQ3PWjLDiv7ZOr8DA=="
+  "signature": "IJeoV0uuuCUiAwulZOQmiZa6EnwLJu+YwThZ0KBKRUSjLMzTFuVxmka8lMqbqSgoxO/Jqpgk6haUuZ5+T6UXAA=="
 }
