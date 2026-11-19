@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.3.2",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.2.exe",
-    "sha256": "dc67501f3c77c6c6e3b9e14b30303c098efee749c9258e1c5893828204582093",
-    "notes": "마우스 휠로 드롭다운 값이 바뀌던 문제를 막았습니다(휠은 화면만 내림). 글 양식 탭과 사진 탭에서 jpg 사진 작은 그림·미리보기가 안 보이던 문제를 고쳤습니다."
+    "version": "0.3.3",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.3.exe",
+    "sha256": "62c729bc25d54381be8295b3e9e61739715ee29b120195b89d9214aee4dd3e34",
+    "notes": "카톡 링크카드를 네이버 편집기 '링크' 창으로 넣게 바꿔 '카드가 사라졌습니다' 실패를 고쳤습니다. 게시판 선택 확인을 더 오래 기다리게 했습니다."
   },
-  "signature": "pAB1Uz6dRWmfo+ghPfRvK9ZaIufYWR/FVlBs9XADBKmB1T7ZxO+zw/x07wo1hzNmC+K3PuTz1di5JEAdnkouCQ=="
+  "signature": "RMNmelriGxrxwCCWX30Yt+Bye+sS0qUpLC+bQc73CpCgZmIpRGlSOEWbqzG7to+1LKpZbxLqH1gwRbd4hCzTCQ=="
 }
