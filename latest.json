@@ -1,9 +1,9 @@
 {
   "payload": {
-    "version": "0.3.3",
-    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.3.exe",
-    "sha256": "62c729bc25d54381be8295b3e9e61739715ee29b120195b89d9214aee4dd3e34",
-    "notes": "카톡 링크카드를 네이버 편집기 '링크' 창으로 넣게 바꿔 '카드가 사라졌습니다' 실패를 고쳤습니다. 게시판 선택 확인을 더 오래 기다리게 했습니다."
+    "version": "0.3.4",
+    "url": "https://raw.githubusercontent.com/kkingpark/naverwriter-releases/main/releases/BandphoneCafeManager-Setup-0.3.4.exe",
+    "sha256": "70504fa0ffbf068664e54ca4e717d478fbf99ea3e3cc3a00bc4cf307aae963db",
+    "notes": "사진 자리가 10개 이상인 글 양식에서 '1번째 사진 자리 글자를 지우지 못했습니다'로 실패하던 문제를 고쳤습니다. 카톡 링크카드를 넣을 때 버튼이 잠깐 안 눌리는 경우도 기다렸다가 다시 합니다."
   },
-  "signature": "RMNmelriGxrxwCCWX30Yt+Bye+sS0qUpLC+bQc73CpCgZmIpRGlSOEWbqzG7to+1LKpZbxLqH1gwRbd4hCzTCQ=="
+  "signature": "Bl9Nbl+lPdW/+VRefeIWcKS+9Nq5mdq6fw5aqXKhgqo5YGccb1o452yJkaQIm4Cdx8Y+MtwVwIy/mG/M+X50Aw=="
 }
